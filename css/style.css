@@ -1,0 +1,52 @@
+/* estilos del body */
+
+body{
+    background-color: beige;
+    font-family:'Roboto', sans-serif;;
+}
+
+/* estilos del header */
+
+header{
+    text-align: center;
+}
+
+header nav ul{
+    list-style: none;
+}
+
+/* estilos de main */
+
+main h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+main div{
+    text-align: center;
+}
+
+main p{
+    text-align: center;
+}
+
+main p span{
+    color: chocolate;
+    font-weight: bold;
+}
+
+/* estilos dle footer */
+
+footer h2{
+    font-size: 16px;
+}
+
+footer ul{
+    list-style: none;
+}
+
+footer ul li{
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
